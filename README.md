@@ -28,12 +28,10 @@
 
 ## R Comprehensive Code
 
-**Foundational R experimentation**
-
 [Foundation Level R Data](A5_R/basics_R.R)
 
 #### Quantmod: Apple Stock Performance After Steve Jobs
 
-[Apple_stocks](A5_R/appl_post_jobs.png)
+![Apple_stocks](A5_R/appl_post_jobs.png)
 
 _Could this be due to Apple focusing more on shareholders rather than consumers?_
