@@ -18,11 +18,11 @@
 
 #### Passenger Age Distribution (Boxplot)
 
-[Age_Box_Plot](A5_R/titanic_age_boxplot.png)
+![Age_Box_Plot](A5_R/titanic_age_boxplot.png)
 
 #### Passenger Mortality Rate Relationships
 
-[Mortality_Relationship](A5_R/titanic_relation_2.png)
+![Mortality_Relationship](A5_R/titanic_relation_2.png)
 
 <br>
 
