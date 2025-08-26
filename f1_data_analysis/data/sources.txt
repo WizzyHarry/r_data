@@ -1,0 +1,5 @@
+Sources:
+Lap time information from ergast API, have ERD and downloadable CSV files containing:
+the fia directly
+catchingisonething on reddit, have information on overtakes and overtaken
+https://racingpass.net/faqs/ :Explains why overtakes are not counted on the first lap
